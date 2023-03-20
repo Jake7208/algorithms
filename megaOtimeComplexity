@@ -1,0 +1,30 @@
+Big O is a way to categorize your algorithm time or memory requirement based on input it will not tell you how many CPU cycles it takes.
+
+    ("Meant to generalize the growth of algorithm")
+
+O of n means grows linearly
+
+Big O said differently
+As your input grows, how fast does your computation or memory grow
+
+important concepts
+
+1. growth is respect to the input
+2. always drop constants
+3. Worst case is usually te way we measure
+
+O of N is faster N^2
+
+O(1) is instant pretty much
+
+( O(sqrt(n)) is different)
+
+First data structure
+
+Arrays
+
+const a = []
+not an array lol git gud kid
+
+Array
+[] continuous memory space
